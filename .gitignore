@@ -1,2 +1,3 @@
 create_ssh_key.sh
 id_rsa.pub
+.ipynb*
